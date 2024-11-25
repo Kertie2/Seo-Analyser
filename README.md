@@ -58,7 +58,7 @@
 
 ## 🖼️ Aperçu
 
-![Aperçu de l'extension](https://github.com/Kertie2/Seo-Analyser/internal/img/screen.png)
+![Aperçu de l'extension](https://github.com/Kertie2/Seo-Analyser/internal/img/screen.png](https://github.com/Kertie2/Seo-Analyser/blob/main/internal/img/image_2024-11-25_213657099.png?raw=true))
 
 ---
 
